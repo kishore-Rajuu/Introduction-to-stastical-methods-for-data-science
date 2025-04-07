@@ -1,1 +1,1 @@
-# Introduction-to-stastical-methods-for-data-science
+# Introduction-to-statistical-methods-for-data-science
